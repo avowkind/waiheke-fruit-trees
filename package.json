@@ -1,0 +1,27 @@
+{
+  "name": "treemap",
+  "version": "0.0.0",
+  "description": "JS Module for BlackpoolTreeMap project",
+  "author": "Andrew Watkins <avowkind@gmail.com>",
+  "contributors": [
+    {
+      "name": "Andrew Watkins",
+      "email": "avowkind@gmail.com"
+    }
+  ],
+  "keywords": [
+    "waiheke",
+    "fruit trees",
+    "maps",
+    "photos"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-bower": "0.0.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-jade": "^0.10.0",
+    "gulp-notify": "^2.1.0",
+    "gulp-ruby-sass": "^0.7.1"
+  }
+}
